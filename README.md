@@ -122,7 +122,3 @@ skills with a passion for developing efficient and user-focused solutions.
   <a href="https://wa.me/967772695317"><img src="https://img.shields.io/badge/-+967%20772%20695%20317-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=2E86C1" alt="Profile Views"/>
-</p>
-
