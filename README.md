@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! 👋 I'm Hossam Alshowafi</h1>
+<h1 align="center"> I'm Hossam Alshowafi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Web+Application+Developer;Flutter+%7C+Laravel+%7C+Python+Developer;Passionate+About+Clean+%26+Efficient+Code" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 Software Engineer with 2 years of experience in software, mobile, and web application development. Proficient in
 **Dart, JavaScript, PHP, Java, and Python**, with hands-on experience building responsive web applications using
@@ -28,7 +28,7 @@ skills with a passion for developing efficient and user-focused solutions.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 <table>
 <tr>
@@ -111,19 +111,6 @@ skills with a passion for developing efficient and user-focused solutions.
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hossam's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
